@@ -47,7 +47,7 @@ def detect_circle_and_draw_line(image):
             break
 
 # 이미지 경로 수정
-image_path = 'C:\\asdasda.png'
+image_path = 
 
 # 이미지 로드 및 처리
 img = cv2.imread(image_path)
