@@ -19,7 +19,7 @@ Recognizing the scores of five randomly positioned darts allocated to Team 1 and
 
 ## Result
 Example photo 1
-![ex_screenshot](./img/ex.png)
+![ex_screensho](./image/ex.png)
 
 Example photo 2
-![ex_screenshot](./img/ex1.png)
+![ex_screenshot](./image/ex1.png)
